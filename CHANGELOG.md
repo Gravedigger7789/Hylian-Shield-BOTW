@@ -1,0 +1,16 @@
+## [STL](STL) Change Log
+- 2/1/20
+  - Fixed small vertex issue with phoenix.
+  - Scaled all parts (triforce, zigzag, phoenix, plate) with a .5mm tolerance
+  - Split files for printing on Ender 5 Plus
+- 1/22/20
+  - Added full shield with cut outs for the triforce, zigzag, and phoenix
+- 1/3/20
+  - Centered front top and back bottom rivet
+  - Added left handed configuration
+  - Added shield with no handles
+  - Added shield with no phoenix
+  - Added shield broken into parts (plate, zigzag, triforce, phoenix, handle, strap)
+- 12/28/19
+  - Rounded handle and strap
+  - Created the full shield as one solid piece
