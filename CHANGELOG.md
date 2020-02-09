@@ -1,4 +1,6 @@
 ## [STL](STL) Change Log
+- 2/8/20
+  - Changed phoenix arrangement for easier print
 - 2/1/20
   - Fixed small vertex issue with phoenix.
   - Scaled all parts (triforce, zigzag, phoenix, plate) with a .5mm tolerance
