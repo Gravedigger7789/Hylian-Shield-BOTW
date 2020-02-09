@@ -14,8 +14,10 @@ All files with the name **-Arranged* are rotated and arranged in the way I print
 **2.5%** for the Shield body  
 **5%** for everything else
 
+**Supports** - Tree
+
 **Filament** ~ 2.5kg
 
-**Time** ~ 3 Days
+**Time** - 6~8 Days
 
 ![Hylian Shield Print](Printed.jpg)
