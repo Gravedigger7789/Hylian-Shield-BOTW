@@ -1,4 +1,6 @@
 ## [STL](STL) Change Log
+- 11/22/20
+  - Split files for printing on Ender 3
 - 2/8/20
   - Changed phoenix arrangement for easier print
 - 2/1/20
