@@ -1,6 +1,6 @@
-# Hylian Shield Split for Ender 5 Plus (350x350x400)
+# Hylian Shield Split for Ender 3 (220x220x250)
 
-This folder contains the [Hylian Shield](../Hylian-Shield-BOTW.stl) sliced to fit on an Ender 5 plus bed size (350mm x 350mm x 400mm)
+This folder contains the [Hylian Shield](../Hylian-Shield-BOTW.stl) sliced to fit on an Ender 3 bed size (220mm x 220mm x 250mm)
 
 The common parts for the cut-out sections can be found [here](../Comman\ Parts)
 
@@ -19,4 +19,4 @@ The common parts for the cut-out sections can be found [here](../Comman\ Parts)
 
 **Time** - 6~8 Days
 
-![Hylian Shield Print](Printed.jpg)
+![Hylian Shield](Split.png)
